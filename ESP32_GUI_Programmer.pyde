@@ -1,4 +1,6 @@
-
+#ESP32 Programmer
+#processing python mode
+#only need controlP5 library
 
 # THIS IS COPIED FROM espota.py
 # Original espota.py by Ivan Grokhotkov:
